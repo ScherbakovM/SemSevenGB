@@ -47,7 +47,6 @@
 Деплой и подготовка к запуску: 1 неделя.
 ## Проектирование прототипа:
 Создание прототипа интерфейса с основными элементами:
-Главная страница с каталогом маршрутов и записи на аренду
 
 [figma](https://www.figma.com/file/q9ao12U2GzIp8kWBwKniVy/Untitled?type=design&node-id=0%3A1&mode=design&t=VUYgiaDJqYGh4ozW-1)
 
